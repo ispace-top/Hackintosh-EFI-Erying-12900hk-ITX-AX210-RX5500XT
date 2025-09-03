@@ -34,7 +34,7 @@ This repository provides a complete OpenCore bootloader configuration for the **
 | Feature | Status | Notes |
 |:---|:---:|:---|
 | **CPU** | ✅ | Perfect support with Turbo Boost |
-| **iGPU** | ✅ | UHD 770 fully functional |
+| **iGPU** | ❌ | No support from the 11th generation. |
 | **dGPU** | ✅ | RX5500XT native support |
 | **Audio** | ✅ | Audio works perfectly |
 | **Ethernet** | ✅ | 2.5G/Gigabit dual Ethernet perfect support |
